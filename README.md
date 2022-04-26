@@ -1,5 +1,5 @@
 ### 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! 👋
-#### I'm Liliana from Argentina. I'm currently studying Electronic Engineering, and studying at a bootcamp to become a Fullstack Web Developer.
+#### I'm Liliana from Argentina. I'm currently studying Electronic Engineering, and studying at Soy Henry's bootcamp to become a Fullstack Web Developer.
 
 📫 How to reach me: lilianadelcleiva@gmail.com
 
