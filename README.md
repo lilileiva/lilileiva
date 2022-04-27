@@ -2,8 +2,15 @@
 
 ### 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! 👋
 #### I'm Liliana from Argentina. I'm currently studying Electronic Engineering, and studying at Soy Henry's bootcamp to become a Fullstack Web Developer.
-
-📫 How to reach me: lilianadelcleiva@gmail.com
+🔭 I’m currently working on my portfolio adding projects.
+<br>
+🌱 I’m currently learning Backend development with NodeJs and Express.
+<br>
+ #### How to reach me:
+<br>
+📫Email: lilianadelcleiva@gmail.com
+<br>
+🟦LinkedIn: www.linkedin.com/in/lilianaleiva/
 
 <!--
 **lilileiva/lilileiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
