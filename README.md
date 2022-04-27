@@ -7,7 +7,6 @@
 🌱 I’m currently learning Backend development with NodeJs and Express.
 <br>
  #### How to reach me:
-<br>
 📫Email: lilianadelcleiva@gmail.com
 <br>
 🟦LinkedIn: www.linkedin.com/in/lilianaleiva/
