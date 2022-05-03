@@ -2,7 +2,8 @@
 
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
-#### I'm Liliana from Argentina. I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
+#### I'm Liliana from Argentina.
+📚 I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
 
 🌱 I’m currently working on my portfolio adding projects and learning Back-end development with NodeJS and Express.
 
@@ -38,6 +39,12 @@
 > [![Gmail Badge](https://img.shields.io/badge/-lilianadelcleiva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilianadelcleiva@gmail.com)](mailto:lilianadelcleiva@gmail.com)
 
 ---
+
+<p align="center">
+   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
 <!--
 **lilileiva/lilileiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
