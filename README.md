@@ -5,7 +5,11 @@
 #### I'm Liliana from Argentina.
 📚 I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
 
-🌱 I’m currently working on my portfolio adding projects and learning Back-end development with NodeJS and Express.
+🌱 I’m currently learning Back-end development with NodeJS and Express.
+
+🕹 My hobbies are Rubik's cubes and play guitar.
+
+📫 You can email me at: lilianadelcleiva@gmail.com 
 
 <!--
 ---
@@ -26,11 +30,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-
 ---
- #### How to reach me:
- 
-> 📫Email: lilianadelcleiva@gmail.com 
+
 -->
 
 ---
