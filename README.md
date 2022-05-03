@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Back-end development with NodeJS and Express.
 
-🕹 My hobbies are Rubik's cubes and play guitar.
+🕹 My hobbies are Rubik's cubes, play guitar and coding.
 
 📫 You can email me at: lilianadelcleiva@gmail.com 
 
