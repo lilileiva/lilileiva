@@ -1,15 +1,17 @@
 ![Henry STUDENTS-08](https://user-images.githubusercontent.com/94813118/165354931-ab70d33e-29db-4671-8529-cb0e2ac8e745.png)
 
 ### 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! 👋
+---
 #### I'm Liliana from Argentina. I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
 
-🌱 I’m currently working on my portfolio adding projects and learning Backend development with NodeJs and Express.
-<br>
+🌱 I’m currently working on my portfolio adding projects and learning Back-end development with NodeJS and Express.
 
+---
  #### How to reach me:
-📫Email: lilianadelcleiva@gmail.com
-<br>
-🟦LinkedIn: www.linkedin.com/in/lilianaleiva/
+ 
+> 📫Email: lilianadelcleiva@gmail.com 
+> <br>
+> 🟦LinkedIn: www.linkedin.com/in/lilianaleiva/
 
 <!--
 **lilileiva/lilileiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
