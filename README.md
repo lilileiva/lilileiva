@@ -5,36 +5,30 @@
 #### I'm Liliana from Argentina.
 📚 I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
 
-🌱 I’m currently learning Back-end development with NodeJS and Express.
+🌱 I’m currently developing in a Henry's grupal project.
 
 🕹 My hobbies are Rubik's cubes, play guitar and coding.
 
 📫 You can email me at: lilianadelcleiva@gmail.com 
 
-<!--
----
-
 ### 🛠️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
 
--->
-
----
 ### 🤝🏻 Connect with me
 > [![Linkedin Badge](https://img.shields.io/badge/-Liliana_Leiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilianaleiva/)](https://www.linkedin.com/in/lilianaleiva/)
 > [![Gmail Badge](https://img.shields.io/badge/-lilianadelcleiva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilianadelcleiva@gmail.com)](mailto:lilianadelcleiva@gmail.com)
