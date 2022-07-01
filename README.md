@@ -1,4 +1,9 @@
+<!--
 ![Henry STUDENTS-08](https://user-images.githubusercontent.com/94813118/165354931-ab70d33e-29db-4671-8529-cb0e2ac8e745.png)
+-->
+
+![banner-github](https://user-images.githubusercontent.com/94813118/176956433-5860a9b6-ed5c-4856-83e4-816d352d5295.png)
+
 
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
@@ -18,14 +23,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express.js)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-MongoDose-black?style=flat-square&logo=mongooose)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongooose)
 ![Typegoose](https://img.shields.io/badge/-Typegoose-black?style=flat-square&logo=typegoose)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
