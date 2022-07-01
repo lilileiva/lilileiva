@@ -1,4 +1,4 @@
-![banner-github](https://user-images.githubusercontent.com/94813118/176963711-75cbff63-fd2f-47b5-b8f0-abbe7313f364.png)
+![banner-github](https://user-images.githubusercontent.com/94813118/176964815-19908d1d-80bc-4d05-aae6-7c9239ebdb44.png)
 
 
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
