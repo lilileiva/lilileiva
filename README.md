@@ -2,7 +2,7 @@
 ![Henry STUDENTS-08](https://user-images.githubusercontent.com/94813118/165354931-ab70d33e-29db-4671-8529-cb0e2ac8e745.png)
 -->
 
-![banner-github](https://user-images.githubusercontent.com/94813118/176958464-b04985bd-a3f6-4d17-b35a-a4dc21f8f227.png)
+![banner-github](https://user-images.githubusercontent.com/94813118/176963007-40e9157e-c1c1-4777-8bec-6f82790bd681.png)
 
 
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
