@@ -1,7 +1,3 @@
-<!--
-![Henry STUDENTS-08](https://user-images.githubusercontent.com/94813118/165354931-ab70d33e-29db-4671-8529-cb0e2ac8e745.png)
--->
-
 ![banner-github](https://user-images.githubusercontent.com/94813118/176963613-c9585046-d859-46a8-afb0-c2355a9e2577.png)
 
 
