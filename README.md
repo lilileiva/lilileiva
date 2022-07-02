@@ -37,8 +37,8 @@
 
 ### 🤝🏻 Connect with me
 > [![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://lilianaleiva.vercel.app/)
-> ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-> ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianaleiva/)
+> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"lilianadelcleiva@gmail.com")
 
 ---
 
