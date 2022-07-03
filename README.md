@@ -4,9 +4,11 @@
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
 #### I'm Liliana from Argentina.
-📚 I'm currently studying Electronic Engineering, and studying at Henry's bootcamp to become a Full Stack Developer.
+🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry's Bootcamp.
 
-🌱 I’m currently developing in a Henry's grupal project.
+🌱 I’m currently learning React Native, but in other hand I am contiously improving my current skills working in personal projects.
+
+📚 Electronic Engineering student.
 
 🕹 My hobbies are Rubik's cubes, play guitar and coding.
 
