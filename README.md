@@ -43,6 +43,8 @@
 > [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"lilianadelcleiva@gmail.com")
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
