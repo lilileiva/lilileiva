@@ -4,6 +4,9 @@
 ## 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
 #### I'm Liliana from Argentina.
+
+<div aligh='left'>
+         
 🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry's Bootcamp.
 
 🌱 I’m currently learning React Native, but in other hand I am contiously improving my current skills working in personal projects.
@@ -12,7 +15,11 @@
 
 🕹 My hobbies are Rubik's cubes, play guitar and coding.
 
-📫 You can email me at: lilianadelcleiva@gmail.com 
+📫 You can email me at: lilianadelcleiva@gmail.com
+         
+</div>
+
+---
 
 ### 🛠️ Tech Stack:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,16 +41,25 @@
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel Badge](	https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+   
+  <div align='center'>
+      
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      
+  </div>
 
 ---
 
 ### 🤝🏻 Connect with me
-> [![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://lilianaleiva.vercel.app/)
-> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianaleiva/)
-> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"lilianadelcleiva@gmail.com")
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+
+[![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://lilianaleiva.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianaleiva/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"lilianadelcleiva@gmail.com")
+
+ </div>
+
 ---
 
 <p align="center">
