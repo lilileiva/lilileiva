@@ -8,8 +8,6 @@
 <div aligh='left'>
          
 🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end. I use React.js and Node.js complemented with other techlonogies, and I work with agile methodologies.
-</br> I am responsable and with commitment to always obtain the best results.
-</br> I like work in team so I am always predisposed to collaborate and learn from others!
          
 💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
