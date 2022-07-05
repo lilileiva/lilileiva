@@ -9,7 +9,7 @@
          
 🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry Bootcamp.
 
-🌱 I’m currently learning React Native, but in other hand I am contiously improving my current skills working in personal projects.
+🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
 
 💼 I invite you to see my projects. Scrolling down you will find my pinned repositories.
 
