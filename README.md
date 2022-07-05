@@ -7,13 +7,16 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Web Developer, with commitment to always obtain the best results.
+🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end. I use React.js and Node.js complemented with other techlonogies, and I work with agile methodologies.
+</br> I am responsable and with commitment to always obtain the best results.
+</br> I like work in team so I am always predisposed to collaborate and learn from others!
+         
+💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer.
+</br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
+         
+📚 Electronic Engineering student.
          
 🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
-
-💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer. I invite you to see my projects! Scrolling down you will find my pinned repositories.
-
-📚 Electronic Engineering student.
 
 🕹 My hobbies are Rubik's cubes, play guitar and coding.
 
