@@ -7,9 +7,11 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry's Bootcamp.
+🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry Bootcamp.
 
 🌱 I’m currently learning React Native, but in other hand I am contiously improving my current skills working in personal projects.
+
+💼 I invite you to see my projects. Scrolling down you will find my pinned repositories.
 
 📚 Electronic Engineering student.
 
@@ -42,11 +44,11 @@
 ![Vercel Badge](	https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    
-  <div align='center'>
+ <div align='center'>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![lilileiva's github stats](https://github-readme-stats.vercel.app/api?username=lilileiva&show_icons=true&theme=default)
       
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-      
-  </div>
+</div>
 
 ---
 
@@ -65,7 +67,6 @@
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
 
 <!--
 **lilileiva/lilileiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
