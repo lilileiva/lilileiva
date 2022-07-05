@@ -7,7 +7,7 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Developer, with certification I achieved from Henry Bootcamp.
+🚀 I'm a passionate Full Stack Developer, with commitment to always obtain the best results.
 
 🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
 
