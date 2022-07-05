@@ -7,11 +7,11 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Developer, with commitment to always obtain the best results.
-
+🚀 I'm a passionate Full Stack Web Developer, with commitment to always obtain the best results.
+         
 🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
 
-💼 I invite you to see my projects. Scrolling down you will find my pinned repositories.
+💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer. I invite you to see my projects! Scrolling down you will find my pinned repositories.
 
 📚 Electronic Engineering student.
 
