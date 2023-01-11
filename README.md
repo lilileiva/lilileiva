@@ -7,16 +7,16 @@
 
 <div aligh='left'>
          
-🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end. I use React.js and Node.js complemented with other techlonogies, and I work with agile methodologies.
+🚀 I'm a passionate Full Stack Web Developer interested in front-end as much as back-end.
          
-💼 I worked in grupal and individual projects and they all where meaningful experiences to me to grow up as a developer. Currently I am a back-end developer at Corporación Cápsula.
+💼 Currently I am a back-end developer at Corporación Cápsula.
 </br> I invite you to see my projects! Scrolling down you will find my pinned repositories.
          
 📚 Electronic Engineering student.
          
 🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
 
-🕹 My hobbies are Rubik's cubes, play guitar and coding.
+🕹 My hobbies are Rubik's cubes, play guitar and chess.
 
 📫 You can email me at: lilianadelcleiva@gmail.com
          
