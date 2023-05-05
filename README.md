@@ -14,7 +14,7 @@
          
 📚 Electronic Engineering student.
          
-🌱 I’m currently learning React Native, but in other hand I am continously improving my current skills working in personal projects.
+🌱 I am continously improving my current skills working in personal projects.
 
 🕹 My hobbies are Rubik's cubes, play guitar and chess.
 
