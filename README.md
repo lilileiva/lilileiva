@@ -1,7 +1,6 @@
 ![wallpaper-f](https://github.com/user-attachments/assets/55cdbe10-b038-41e5-96d2-311209706a5f)
 
  <pre align="center">
-
   _    _      _ _        __          __        _     _ _ 
  | |  | |    | | |       \ \        / /       | |   | | |
  | |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| | |
@@ -13,17 +12,15 @@
 
  <h3 align='center'>I'm Lili 👋</h3>
 
- <p align='center'>Full Stack Developer</p>
+ <p align='center'>Full Stack Developer from Argentina</p>
 
-<div align='center' justify='center'>
-
+<div align='center'>
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lilileiva&theme=nord&show_icons=true&hide_border=true&layout=compact)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilileiva&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=lilileiva&theme=nord&hide_border=true)
-
 </div>
+
 
 ![wallpaper-f - copia](https://github.com/user-attachments/assets/9c6143ff-c3cb-43f8-a077-ab9e9fb9dba0)
 
